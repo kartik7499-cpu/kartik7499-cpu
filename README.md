@@ -60,7 +60,9 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kartik7499-cpu&theme=nord&no-frame=true&no-bg=true&margin-w=6"/>
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=kartik7499-cpu&theme=onedark&margin-w=10&margin-h=10&column=4" 
+  />
 </p>
 
 ---
